@@ -1,0 +1,14 @@
+{
+  "name": "mapycz",
+  "version": "1.0.0",
+  "description": "proof of concept",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Michael Melena",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}

@@ -1,0 +1,19 @@
+.smap .cluster img { 
+    display: none;
+}
+
+.smap .cluster div {
+    background-color: white !important;
+    border: none !important;
+    background-image: url(https://havit.cz/logo.png);
+    background-size:  75%;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+
+.cluster span {
+    color: #222;
+    font-size: 12px;
+    position: relative;
+    top: -10px;
+}
